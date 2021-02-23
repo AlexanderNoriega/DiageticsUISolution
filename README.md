@@ -1,3 +1,5 @@
 # DiageticsUISolution
 
-Unzip and use the Unity launcher to add the project folder. Afterwards open the ScenePrime (found in Assests) in the editor to test.
+1. Unzip folder to a file location
+2. In the Unity launcher to use Add Project on the folder
+3. Afterwards open the scene ScenePrime (found in Assests) in the editor to test.
